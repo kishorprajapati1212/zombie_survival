@@ -7,7 +7,7 @@ A fast-paced FPS game built with Unity, where players must survive waves of zomb
 ## 🎮 How to Play (PC Build)
 
 1. **Download the ZIP folder**  
-   [📦 Download Game (Git repo)](https://github.com/kishorprajapati1212/zombie_survival.git/Zombie_PC_Game_Test)
+   [📦 Download zip file from git repo with name of Zombie_PC_Game_Test)
 
 2. **Extract the folder** to your desktop or any location.
 
