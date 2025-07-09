@@ -40,12 +40,6 @@ A fast-paced FPS game built with Unity, where players must survive waves of zomb
 
 ---
 
-## 📂 Project Structure
-
-
-
----
-
 ## 👨‍💻 Developed By
 
 **Kishor Prajapati**  
