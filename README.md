@@ -36,7 +36,7 @@ A fast-paced FPS game built with Unity, where players must survive waves of zomb
 
 ## 📸 Screenshot
 
-![Zombie Game Screenshot](      )
+![Zombie Game Screenshot](https://raw.githubusercontent.com/kishorprajapati1212/Screen_Shot/refs/heads/main/website_ss/Zombie_game/Start_zombie.png)
 
 ---
 
